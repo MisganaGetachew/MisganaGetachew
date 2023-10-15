@@ -1,4 +1,6 @@
 ### Hi there 👋
+##### It's Misgana Getachew
+                  
 
 <!--
 **MisganaGetachew/MisganaGetachew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+misgana+getachew;a+web+development+intern;+a+backend+developer,
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Softeware+Engineering+Student+Back+end+developer;a+web+development+intern;
 )](https://git.io/typing-svg)
 
 
