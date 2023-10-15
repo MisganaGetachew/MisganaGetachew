@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 
 -->
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+misgana+getachew,+a+web+development+intern,+a+backend+developer,
+)](https://git.io/typing-svg)
 
 
 I am a software engineering student with experience in C++, Python, and web development.
