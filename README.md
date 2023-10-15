@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Softeware+Engineering+Student+Back+end+developer;a+web+development+intern;
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Softeware+Engineering+Student;Back+end+developer;web+development+intern;
 )](https://git.io/typing-svg)
 
 
