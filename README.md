@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Misgana+Getachew;A+Software+Engineering+student;Web+development+Intern+Backend+Developer(Flask,Django))](https://git.io/typing-svg)
 
 
-with experience in C++, Python, and web development.
+
+I am a software engineering student with experience in C++, Python, and web development.
 - 🔭 I’m currently working some personal projects
 - 🌱 I’m currently learning OOP with Java
 - 👯 I’m looking to collaborate on any python based projects (desktop/web)
