@@ -9,12 +9,10 @@ Here are some ideas to get you started:
 
 
 -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Back-end+developer;Web+development/back-end+intern;
-)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&size=30&pause=1000&color=F75391&random=false&width=435&lines=Back+End+Developer;Software+Engineering+Student;Web+development+intern;Back-End+development+Intern)](https://git.io/typing-svg)
 
 
-I am a software engineering student with experience in C++, Python, and web development.
+With Experience in C++, Python, and web development.
 - 🔭 I’m currently working some personal projects
 - 🌱 I’m currently learning OOP with Java
 - 👯 I’m looking to collaborate on any python based projects (desktop/web)
