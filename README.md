@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 
 
-With Experience in C++, Python, and web development.
-- 🔭 I’m currently working some personal projects
+With Experience in C++, Python(django/flask), and javaScript.
+- 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning OOP with Java
 - 👯 I’m looking to collaborate on any python based projects (desktop/web)
 - 📫 How to reach me: https://www.linkedin.com/in/misgana-getachew/
