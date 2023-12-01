@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-With Experience in C++, Python(django/flask), and javaScript.
+With Experience in C++, Python(Django/Flask), and javaScript(React).
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning OOP with Java
 - 👯 I’m looking to collaborate on any python based projects (desktop/web)
