@@ -11,6 +11,16 @@ Here are some ideas to get you started:
 
 
 -->
+
+<h1 align="center">Hi 👋, I'm Mikias Tulu</h1>
+<h3 align="center">Programming Enthusia</h3>
+<h3 align="center">Programming Enthusiast</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mikias-tulu&label=Profile%20views&color=0e75b6&style=flat" alt="mikias-tulu" /> 
+</p>
+<p align="center"><a target="_blank" href="https://mikias-tulu.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20site-A4373A?&style=for-the-badge&logo=exercism&logoColor=white" height=25></a>
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&size=30&pause=1000&color=F7E344&random=false&width=435&lines=Full+stack+Web+Developer;SWE+Student;Back-end+developer(intern);)](https://git.io/typing-svg)
 
 
