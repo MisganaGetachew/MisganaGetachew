@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi 👋, I'm Mikias Tulu</h1>
+<h1 align="center">Hi 👋, It's Misgana Getachew</h1>
 <h3 align="center">Programming Enthusia</h3>
 <h3 align="center">Programming Enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mikias-tulu&label=Profile%20views&color=0e75b6&style=flat" alt="mikias-tulu" /> 
