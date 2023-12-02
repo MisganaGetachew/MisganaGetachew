@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MisganaGetachew&label=Profile%20views&color=0e75b6&style=flat" alt="Misgana-Getachew" /> 
 </p>
-<p align="center"><a target="_blank" href="https://mikias-tulu.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20site-A4373A?&style=for-the-badge&logo=exercism&logoColor=white" height=25></a>
+<!-- <p align="center"><a target="_blank" href="https://mikias-tulu.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20site-A4373A?&style=for-the-badge&logo=exercism&logoColor=white" height=25></a> -->
 
 
 
