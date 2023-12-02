@@ -31,3 +31,13 @@ With Experience in C++, Python(Django/Flask), and javaScript(React).
 - 👯 I’m looking to collaborate on any python based projects (desktop/web)
 - 📫 How to reach me: https://www.linkedin.com/in/misgana-getachew/
 - ### Error 404: Sleep not found.
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misge._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misgana-getachew/)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MisganaGetachew&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MisganaGetachew&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MisganaGetachew&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
