@@ -1,12 +1,9 @@
-### welcome to my world 👋
-  
-  
-                  
+    
 <!--
 **MisganaGetachew/MisganaGetachew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi 👋, It's Misgana Getachew</h1>
+<h1 align="center">Hi welcome!👋, It's Misgana Getachew</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MisganaGetachew&label=Profile%20views&color=0e75b6&style=flat" alt="Misgana-Getachew" /> 
 </p>
