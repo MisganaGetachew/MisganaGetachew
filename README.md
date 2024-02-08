@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 <!-- <p align="center"><a target="_blank" href="https://mikias-tulu.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20site-A4373A?&style=for-the-badge&logo=exercism&logoColor=white" height=25></a> -->
 
 
-With Experience in C++, Python(Django/Flask), and javaScript(React).
+With Experience in C++, Python(Django/Flask), and javaScript(MERN).
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning OOP with Java
-- 👯 I’m looking to collaborate on any python based projects (desktop/web)
+- 🌱 I’m currently learning _!_
+- 👯 I’m looking to collaborate on any project. 
 - 📫 How to reach me: misganagetachew111@gmail.com
-- ### Error 404: Sleep not found.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misge._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misgana-getachew/)
