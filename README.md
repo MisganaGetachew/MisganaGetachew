@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <!-- <p align="center"><a target="_blank" href="https://mikias-tulu.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20site-A4373A?&style=for-the-badge&logo=exercism&logoColor=white" height=25></a> -->
 
 
-With Experience in C++, Python(Django/Flask), and javaScript(MERN).
+
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning _!_
 - 👯 I’m looking to collaborate on any project. 
