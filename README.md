@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on some personal projects
+- 🔭 I’m currently interning at A2SV
 - 🌱 I’m currently learning _!_
 - 👯 I’m looking to collaborate on any project. 
 - 📫 How to reach me: misganagetachew111@gmail.com
