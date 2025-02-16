@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MisganaGetachew&label=Profile%20views&color=0e75b6&style=flat" alt="Misgana-Getachew" /> 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&size=30&pause=1000&color=F7E344&random=false&width=435&lines=Full-stack+Web+Developer;SWE+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&size=30&pause=1000&color=F7E344&random=false&width=435&lines=;SWEing;)](https://git.io/typing-svg)
 
 <img align="right" alt="mylife" width ="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/5c394506444d16d39a64d87b07dcbf21.gif">
 <!-- <p align="center"><a target="_blank" href="https://mikias-tulu.netlify.app/"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20site-A4373A?&style=for-the-badge&logo=exercism&logoColor=white" height=25></a> -->
